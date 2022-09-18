@@ -11,42 +11,47 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ### Level 1 (3 pts)
 
-____ 1 pt: All expected attributes for `Computer` class are present
+**YES** 1 pt: All expected attributes for `Computer` class are present
 
-____ 1 pt: All expected methods for `Computer` class are present
+**YES** 1 pt: All expected methods for `Computer` class are present
 
-____ 1 pt: Constructor for `Computer` class is present and sets attributes correctly
+**YES** 1 pt: Constructor for `Computer` class is present and sets attributes correctly
 
 ### Level 2 (3 pts)
 
-____ 1 pt: All expected attributes for `ResaleStore` class are present
+**YES** 1 pt: All expected attributes for `ResaleStore` class are present
 
-____ 1 pt: All expected methods for `ResaleStore` class are present
+**PART** 1 pt: All expected methods for `ResaleStore` class are present
+(They are present but  I couldn't figure out how to get them to work properly)
 
-____ 1 pt: Constructor for `ResaleStore` class is present and sets attributes correctly
+**YES** 1 pt: Constructor for `ResaleStore` class is present and sets attributes correctly
 
 ### Level 3 (4 pts)
 
-____ 1 pt: Can successfully add a new `Computer` to the inventory
+**PART** 1 pt: Can successfully add a new `Computer` to the inventory
+(done without ResaleStore object)
 
-____ 1 pt: Can successfully remove a `Computer` from the inventory
+**PART** 1 pt: Can successfully remove a `Computer` from the inventory
+(done without ResaleStore object)
 
-____ 1 pt: Can successfully update the price/OS of a Computer contained in the inventory
+**YES** 1 pt: Can successfully update the price/OS of a Computer contained in the inventory
+(this is done automatically)
 
 ____ 1 pt: Program prints appropriate error messages
 
 ## General Items (10 pts):
 
-_____ 4 pts: Program executes fully & consistently without crashing (exception/freeze)
+**PART** 4 pts: Program executes fully & consistently without crashing (exception/freeze)
+(what I have does not crash but it doesn't fully do what it's supposed to)
 
-_____ 1 pt: Classes & class members all have header comments
+**YES** 1 pt: Classes & class members all have header comments
 
-_____ 1 pt: Clear and consistent indentation
+**YES** 1 pt: Clear and consistent indentation
 
-_____ 1 pt: Adheres to conventions on naming / capitalization
+**YES** 1 pt: Adheres to conventions on naming / capitalization
 
-_____ 1 pt: Methods and variables all have clear and descriptive names
+**YES** 1 pt: Methods and variables all have clear and descriptive names
 
-_____ 1 pt: All required files included with submission (including completed checklist file)
+**YES I HOPE** 1 pt: All required files included with submission (including completed checklist file)
 
-_____ 1 pt: reflection.md contains your reflection on the assignment
+**YES** 1 pt: reflection.md contains your reflection on the assignment
